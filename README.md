@@ -12,4 +12,5 @@ I believe in the power of small, consistent habits to achieve big goals — both
 **Lets make tech more interesting**
 
 🔗 LinkedIn: https://www.linkedin.com/in/parinoor
+
 📧 you can contact me on parinoor2005@gmail.com for UI/UX projects
