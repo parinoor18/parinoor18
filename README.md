@@ -1,6 +1,5 @@
 ## Hi there👋 I'm Parinoor
 
-🚀 About Me
 I’m a passionate UI/UX Designer and Computer Science student with a flair for innovation and creativity. My journey in tech blends design thinking, problem-solving, and a love for turning ideas into reality. I enjoy working on projects that challenge me to think outside the box and create impactful user experiences.
 
 🌱 Currently Working On:
