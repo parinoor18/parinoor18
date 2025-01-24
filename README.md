@@ -15,4 +15,4 @@ I believe in the power of small, consistent habits to achieve big goals — both
 
 📧 you can contact me on parinoor2005@gmail.com for UI/UX projects
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,powerbi,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
